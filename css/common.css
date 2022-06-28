@@ -1,0 +1,29 @@
+
+.wrap{
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+header, section, footer{
+    width: 100%;
+    float: left;
+}
+
+.in_header, .container, .in_footer{
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container{
+    padding-top: 200px;
+}
+
+html{
+    font-family: 'Noto Sans KR', sans-serif;
+    letter-spacing: -2px;
+}
+
+body{
+    overflow-x: hidden;
+}
